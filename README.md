@@ -1,6 +1,6 @@
 # OWASP Web Top 10 Playground
 
-[![CI](https://github.com/YOUR-USERNAME/owasp-web-top10-playground/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR-USERNAME/owasp-web-top10-playground/actions/workflows/ci.yml)
+[![CI](https://github.com/nithiya-rajesh/owasp-web-top10-playground/actions/workflows/ci.yml/badge.svg)](https://github.com/nithiya-rajesh/owasp-web-top10-playground/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 
@@ -24,8 +24,6 @@ current (2025) OWASP list.
 **Run this only locally, against your own machine. Never deploy it publicly
 — every endpoint here is intentionally broken.**
 
-> Replace `YOUR-USERNAME` in the badge URLs above with your actual GitHub
-> username/org once you've pushed this — they won't resolve until then.
 
 ## Scenarios
 
